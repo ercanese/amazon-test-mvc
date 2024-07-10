@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PKZE/7maEBVYQA+eD2japT7W/AFmg656krCGdYGFaqDPXe2uuBVombKbmsZkAkAZ1PFwE4gIC9gp6Xg6gtC7XQ==",
+  "dgSpecHash": "/wx+Mzgh3UMd/KdD/PZGvcdqUSRurGYfQsQP4PT+gXa8Bk0q7p6WNSbXJwzRQtxgvLvlGPQnInrk3gZcSloJoA==",
   "success": true,
   "projectFilePath": "C:\\Users\\EE\\Desktop\\Project\\mvcapp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\EE\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\EE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\EE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\EE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
