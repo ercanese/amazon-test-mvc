@@ -1,0 +1,7 @@
+C:\Users\EE\Desktop\Project Train\TBB\mvcapp\pub\mvcapp.exe
+C:\Users\EE\Desktop\Project Train\TBB\mvcapp\pub\appsettings.Development.json
+C:\Users\EE\Desktop\Project Train\TBB\mvcapp\pub\appsettings.json
+C:\Users\EE\Desktop\Project Train\TBB\mvcapp\pub\mvcapp.dll
+C:\Users\EE\Desktop\Project Train\TBB\mvcapp\pub\mvcapp.deps.json
+C:\Users\EE\Desktop\Project Train\TBB\mvcapp\pub\mvcapp.runtimeconfig.json
+C:\Users\EE\Desktop\Project Train\TBB\mvcapp\pub\mvcapp.pdb
